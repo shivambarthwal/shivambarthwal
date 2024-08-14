@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Barthwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **NEXT.JS**
+- 🌱 I’m currently learning **NODE.JS**
 
 - 👨‍💻 All of my projects are available at [https://shivambarthwal.netlify.app/](https://shivambarthwal.netlify.app/)
 
